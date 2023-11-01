@@ -1,4 +1,4 @@
-public class Alberta {
+public class Federal {
 
     public void Calculate(Client client) {
         Group federal = client.federal;
